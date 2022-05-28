@@ -1,0 +1,24 @@
+*{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+body{
+    background-color:burlywood;
+}
+
+img {
+    width: 200px; 
+    height: 200px;
+    object-fit: cover;
+    border: 8px solid rgb(78, 77, 77);
+    border-radius: 5px;
+}
+
+h2{
+    text-align: center;
+}
+
+.azure-text{
+    color: azure;
+    font-style: oblique;
+}
